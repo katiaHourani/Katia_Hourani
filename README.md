@@ -4,7 +4,7 @@ I am a electrical engineer student at lebanease university, curently in my fourt
 I have accomplish many project in logic circuit, electrical machine,automatic, electrical sensors.
 
 I'm working on a project at the meantime which will be uploaded at github when finished.
-The project is a "plant disease detector" which is a robot that detect a QR code near a plant, take a specified number of photo of the plant detected,send it via the rasebpery pi to our model, so it will be able to detect the disease through a convolutional neural network model named "RetinaNet".
+The project is a "plant disease detector" which is a robot that detect a QR code near a plant, take a specified number of photo of the plant detected,send it via the rasebpery pi to our model, so it will be able to detect the disease through a convolutional neural network(CNN) model named "RetinaNet".
 
 The project includes an arduino code to assure the movement of the robot and the web camera fixed to it, a python code implementation for the RetinaNet model and to link the rasebpery pi to our model.
 
