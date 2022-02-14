@@ -1,5 +1,5 @@
 # Katia_Hourani
-I am a electrical engineer student at lebanease university, curently in my fourth year.
+I am a electrical engineer student at lebanese university, curently in my fourth year.
 
 I have accomplish many project in logic circuit, electrical machine,automatic, electrical sensors.
 
